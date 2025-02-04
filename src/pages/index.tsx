@@ -105,7 +105,7 @@ export default function Home() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-center"
         >  
-          <img className="logimg" src={sqtlogo.src} alt="demo-image"/>
+          {/* <img className="logimg" src={sqtlogo.src} alt="demo-image"/> */}
          
           {/* <img src="../assets/images/sqtlogo.svg" alt="demo-image" height={100} width={100}/> */}
           <h1 className="text-5xl font-bold mb-6">Welcome to Super MIA</h1>
